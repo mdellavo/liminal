@@ -1,0 +1,8 @@
+__pycache__
+node_modules
+.mypy_cache
+.cache
+.ipython
+.log
+.DS_Store
+bundle.js
